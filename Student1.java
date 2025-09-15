@@ -20,7 +20,7 @@ public class Student1 {
     // Parameterized constructor
     Student1(int studentId, String studentName, char grade) {
         this.studentId = studentId;
-        this.studentName = studentName;
+        this.studentName = studentName; 
         this.grade = grade;
     }
 
