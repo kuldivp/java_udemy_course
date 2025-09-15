@@ -4,7 +4,7 @@
 // The Main class is the only public class and must match the filename.
 
 
-//trisal
+//trial
 public class ShapeExample {
     public static void main(String[] args) {
         // Create objects of the concrete classes
